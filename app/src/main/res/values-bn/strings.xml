@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Massage Share App</string>
+    <string name="show_toast">টোস্ট দেখান</string>
+    <string name="enter_your_massage">আপনার ম্যাসেজ প্রবেশ করুন</string>
+    <string name="send_data_to_next_activity">পরবর্তী ক্রিয়াকলাপে ডেটা প্রেরণ করুন</string>
+    <string name="share_to_other_apps">অন্যান্য অ্যাপ্লিকেশনগুলিতে ভাগ করুন</string>
+    <string name="recycler_view_demo">পুনর্ব্যবহারকারী দেখুন ডেমো</string>
+    <string name="button_clicked">দীর্ঘ সময়কাল</string>
+</resources>
